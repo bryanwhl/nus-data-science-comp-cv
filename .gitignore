@@ -1,0 +1,6 @@
+# ipython checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+#IntelliJ extensions
+.idea/
