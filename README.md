@@ -1,5 +1,5 @@
 # Instructions To Run The Model
-1. Open the HackerFour_submission submission folder. You should see the following files or folders:
+1. Open the HackerFour_submission submission folder. You should see the following files and folders:
     1.	data
     2.	model
     3.	Datasets
