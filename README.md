@@ -1,4 +1,7 @@
-# Instructions To Run The Model
+# Competition Details
+https://www.kaggle.com/c/nus-sds-dsc2021
+
+# Instructions To Run Our Model
 1. Open the HackerFour_submission submission folder. You should see the following files and folders:
     1.	data
     2.	model
